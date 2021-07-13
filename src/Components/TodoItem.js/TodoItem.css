@@ -1,0 +1,22 @@
+.li-container {
+    background-color: #810000;
+    border-radius: 1rem;
+    border: solid black;
+    color: white;
+    margin: 1.5rem 0;
+    padding: 0.5rem 0;
+    word-wrap: break-word;
+    
+}
+
+.li-container p {
+    margin: 0.2rem 1rem;
+    padding: 0;
+    text-transform: capitalize;
+    width: 500px;
+    display: inline-block;
+}
+
+.li-container button{
+    float: right;
+}

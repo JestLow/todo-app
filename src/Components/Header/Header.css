@@ -1,0 +1,6 @@
+.headerContainer {
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+    color: #1B1717;
+}
