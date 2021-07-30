@@ -17,6 +17,10 @@
     display: inline-block;
 }
 
-.li-container button{
-    float: right;
+.completed-todo {
+    opacity: 0.5;
+}
+
+.completed-todo p {
+    text-decoration: line-through;
 }
